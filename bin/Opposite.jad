@@ -1,0 +1,11 @@
+MIDlet-1: Opposite, , Opposite
+MIDlet-Description: game
+MIDlet-Icon: ///icons/opposite.png
+MIDlet-Info-URL: www.mironovs.org
+MIDlet-Jar-Size: 37883
+MIDlet-Jar-URL: C:/Projects/j2me/Opposite/bin/Opposite.jar
+MIDlet-Name: Opposite
+MIDlet-Vendor: Serguey Mironov
+MIDlet-Version: 0.0.3
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
